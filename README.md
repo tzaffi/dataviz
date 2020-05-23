@@ -1,6 +1,6 @@
 # Data Visualization
 
-Some Data Visualization Examples - all bindered
+Some Data Visualization Examples - all bindered [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tzaffi/dataviz/master)
 
 ## `FlowSankey` 
 
