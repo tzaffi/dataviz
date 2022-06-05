@@ -32,3 +32,8 @@ fsk.build()
 produces something like:
 
 ![image](https://user-images.githubusercontent.com/291133/82744037-4ab48100-9d41-11ea-876d-b6a6ab922040.png)
+
+## Scatter Plots
+
+<img width="973" alt="image" src="https://user-images.githubusercontent.com/291133/172035180-89e81704-0f69-4f48-87b5-c9c273d08994.png">
+
