@@ -1,2 +1,5 @@
 matplotlib
+nbformat
+pandas
 plotly
+statsmodels

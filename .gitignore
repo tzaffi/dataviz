@@ -1,3 +1,6 @@
+py310*
+.tool-versions
+
 # Emacs residue
 *~
 
